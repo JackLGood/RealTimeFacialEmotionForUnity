@@ -1,6 +1,6 @@
 # Unity Real-Time Emotion Detection
 
-A ML model to Unity pipeline showing real-time facial emotion recognition using the [FER+ DCNN](https://github.com/onnx/models/blob/main/validated/vision/body_analysis/emotion_ferplus/model/emotion-ferplus-8.onnx) and Unity’s Barracuda inference engine ([https://github.com/Unity-Technologies/barracuda-release?tab=readme-ov-file#](https://github.com/Unity-Technologies/barracuda-release?tab=readme-ov-file#)). Webcam frames are face-aligned via OpenCV landmarks and fed into the network to detect one of eight emotions.
+A Unity based ML model to Webcam pipeline showing real-time facial emotion recognition using the [FER+ DCNN](https://github.com/onnx/models/blob/main/validated/vision/body_analysis/emotion_ferplus/model/emotion-ferplus-8.onnx) and Unity’s Barracuda inference engine ([https://github.com/Unity-Technologies/barracuda-release?tab=readme-ov-file#](https://github.com/Unity-Technologies/barracuda-release?tab=readme-ov-file#)). Webcam frames are face-aligned via OpenCV landmarks and fed into the network to detect one of eight emotions.
 
 ---
 
